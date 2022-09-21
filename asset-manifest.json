@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dogboarding/static/css/main.62d9da68.css",
-    "main.js": "/dogboarding/static/js/main.eb0a870c.js",
+    "main.css": "/dogboarding/static/css/main.d2482887.css",
+    "main.js": "/dogboarding/static/js/main.79e3afb4.js",
     "static/media/25.jpg": "/dogboarding/static/media/25.bbaab42639a438a2cf03.jpg",
     "static/media/37.jpg": "/dogboarding/static/media/37.37783fb1a3f3f81963d7.jpg",
     "static/media/18.jpg": "/dogboarding/static/media/18.7d32249ed29d7ec2a82a.jpg",
@@ -48,11 +48,11 @@
     "static/media/4.jpg": "/dogboarding/static/media/4.b8cd57d768f9ebb76630.jpg",
     "static/media/30.jpg": "/dogboarding/static/media/30.f161ff4c81ef4275f500.jpg",
     "index.html": "/dogboarding/index.html",
-    "main.62d9da68.css.map": "/dogboarding/static/css/main.62d9da68.css.map",
-    "main.eb0a870c.js.map": "/dogboarding/static/js/main.eb0a870c.js.map"
+    "main.d2482887.css.map": "/dogboarding/static/css/main.d2482887.css.map",
+    "main.79e3afb4.js.map": "/dogboarding/static/js/main.79e3afb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.62d9da68.css",
-    "static/js/main.eb0a870c.js"
+    "static/css/main.d2482887.css",
+    "static/js/main.79e3afb4.js"
   ]
 }
